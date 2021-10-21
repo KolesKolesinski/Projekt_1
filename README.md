@@ -1,5 +1,6 @@
 # Projekt 1 - ASYSTENT MECZOWY
-1  
+## ZAŁOŻENIA
+1
 2  
 3  
 4  
